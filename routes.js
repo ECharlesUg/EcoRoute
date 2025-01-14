@@ -12,9 +12,9 @@ window.routes = [
     {"from": "JFK", "to": "SFO", "co2": 550},
     {"from": "SFO", "to": "SEA", "co2": 120},
     {"from": "SEA", "to": "LAX", "co2": 200},
-    {"from": "NGA", "to": "JFK", "co2": 220},
-    {"from": "SFO", "to": "NGA", "co2": 150},
-    {"from": "NGA", "to": "DFW", "co2": 300},
-    {"from": "ORD", "to": "NGA", "co2": 220},
-    {"from": "NGA", "to": "LAX", "co2": 420}
+    {"from": "YWG", "to": "JFK", "co2": 220},
+    {"from": "SFO", "to": "YWG", "co2": 150},
+    {"from": "YWG", "to": "DFW", "co2": 300},
+    {"from": "ORD", "to": "YWG", "co2": 220},
+    {"from": "YWG", "to": "LAX", "co2": 420}
 ]
